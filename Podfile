@@ -2,7 +2,7 @@
 # platform :ios, "6.0"
 
 target "nsattrchanger" do
-
+  pod "SDWebImage"
 end
 
 target "nsattrchangerTests" do
